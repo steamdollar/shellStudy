@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 변수 읽기..
-# read [-ers] [-a array] [-d delim] [-i text] [-n nchars] [-N nchars] [-p prompt]
+# read [-ers] [-a array] [-d delim] [-i text] [-n nchars] [-N nchars] [-p prompt] [-t timeout] [-u fd] [name ...]
 
 var='hello'
 echo $var
