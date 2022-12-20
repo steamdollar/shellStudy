@@ -31,10 +31,10 @@ fi
 
 ## 숫자 비교
 
-# -eg : equal
+# -eq : equal
 # -ne : not equal
 # -lt less than
-# -le lee than or equal
+# -le less than or equal
 # -gt greater than
 # -ge greater than or equal
 
@@ -42,7 +42,7 @@ fi
 
 # -z string : empty string
 # -n string : not empty string
-# string== string :  equal
+# string == string :  equal
 # string != string :  not equal
 
 ##
