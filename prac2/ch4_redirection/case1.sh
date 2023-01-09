@@ -1,6 +1,6 @@
 #!/bin/bash
 
-exec 2> /dev/null
+# exec 2> /dev/null
 
 for file in $(ls)
 # ls 명령어를 쉘에 쳤을때 나온 결과값을 변수화 하고 싶다면 다음과 같이
